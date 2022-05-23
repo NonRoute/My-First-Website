@@ -4,11 +4,37 @@ body {
     color: aliceblue;
 }
 
+main {
+    background-color: lightgoldenrodyellow;
+    color:rgb(36, 46, 56);
+    margin: 50px 10px 100px 200px;
+    width: 650px;
+}
+
+header {
+    background-color: dimgray;
+    color:azure;
+    padding: 100px;
+    border: 50px double rosybrown;
+}
+
+.box {
+    font-size: 30px;
+    width: fit-content;
+    background-color: hotpink;
+    color:yellow;
+    padding: 10px;
+    border: 10px solid darkturquoise;
+}
 h1 {
     font-size: 50px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     background-color: slategrey;
+    width: 1000px;
+    margin: 20px 100px;
+    padding: 40px;
+    border: 10px solid beige;
 }
 
 h2 {
