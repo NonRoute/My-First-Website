@@ -1,0 +1,60 @@
+body {
+    background-color: darkgrey;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    text-align: center;
+    background-color: saddlebrown;
+    color: burlywood;
+    padding: 10px 0;
+}
+
+main {
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: green;
+    color: lightgreen;
+}
+
+h2 {
+    color: aqua;
+}
+
+ul {
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color:darkorange;
+}
+
+.intro {
+    border: black 5px solid;
+    background-color: azure;
+    color:darkmagenta;
+    padding: 0 50px;
+}
+.cols {
+    width: 900px;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    border: 5px white solid;
+}
+
+.col {
+    border: 3px greenyellow double;
+}
+
+.random-sentence {
+    text-align: center;
+    font-size: 30px;
+}
+
